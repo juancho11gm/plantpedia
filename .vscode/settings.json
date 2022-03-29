@@ -1,0 +1,39 @@
+{
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "prettier.useTabs": true,
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "javascript.format.insertSpaceAfterConstructor": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "window.zoomLevel": 3,
+  "editor.tabSize": 2,
+  "typescript.preferences.quoteStyle": "single",
+  "javascript.preferences.quoteStyle": "single",
+  "stylelint.enable": true,
+  "css.validate": false,
+  "scss.validate": false,
+  "liveServer.settings.port": 3000,
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "workbench.colorTheme": "Aura Soft Dark",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.guides.bracketPairs": true,
+  "editor.accessibilitySupport": "off",
+  "codestream.email": "jugonzalez@hugeinc.com"
+}
